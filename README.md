@@ -27,7 +27,13 @@ If this window appears, choose your preferred interface
 
 ![](https://i.ibb.co/v45YsFv/Virtual-Box-Kali-04-03-2024-17-38-18.png)
 
-If the Script doesn't Work Correctly, run these commands... 
+
+**IF Login Page Appeared and is still refreshing. Switch to Previous session using `Ctrl`+`Alt`+`f2`or `f3` 
+
+and Wait for the download to complete**
+
+**If the Script doesn't Work Correctly, run these commands... **
+
  ```bash
     sudo apt auto-remove
 ```
