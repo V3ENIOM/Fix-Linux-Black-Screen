@@ -27,7 +27,7 @@ ssh-add ~/.ssh/id_rsa
  ```
 Try cloning again and resume the process
  ```
-cd Fix-Linux-BlackScreen
+cd Fix-Linux-Black-Screen
  ```
 ```
 sudo python3 Script.py
