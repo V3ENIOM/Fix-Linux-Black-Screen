@@ -9,7 +9,7 @@ if user_input == 1:
     subprocess.run(["Xorg", "-configure"])
     subprocess.run(["sudo", "cp", "xorg.conf.new", "/etc/X11/xorg.conf"])
     print("DONE, MADE WITH LOVE, V3ENIOM")
-    time.sleep(3)
+    time.sleep(7)
     subprocess.run(["sudo", "service", "gdm3", "start"])
     subprocess.run(["sudo","reboot","-f"])
 elif user_input == 2:
