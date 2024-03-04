@@ -1,4 +1,4 @@
-# Fix-Linux-BlackScreen
+# Fix-Linux-Black-Screen
 
 Most Linux users face the black screen issue after installing 
 the operating system and trying to log in.
