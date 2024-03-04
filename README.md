@@ -6,7 +6,7 @@ the operating system and trying to log in.
 So I designed this simple script to solve this problem by executing some Linux commands automatically.
 All you have to do is download the tool, run it, and then choose the type of display manager that you installed during the system installation.
 
-`If you want to change it, just choose another option`
+`If you want to change it, just choose the corresponding option`
 
 ## Steps
 
@@ -16,11 +16,21 @@ All you have to do is download the tool, run it, and then choose the type of dis
  
 3- Run these commands
  ```bash 
- git clone https://github.com/V3ENIOM/Fix-Linux-Black-Screen.git
+git clone https://github.com/V3ENIOM/Fix-Linux-Black-Screen.git
  ```
-    cd Fix-Linux-BlackScreen
+
+`Username for Github:  ` << If this message appeared. type these commands
+```bash
+ssh-keygen -t rsa -b 4096
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
  ```
- sudo python3 Script.py
+Try cloning again and resume the process
+ ```
+cd Fix-Linux-BlackScreen
+ ```
+```
+sudo python3 Script.py
  ````
 
 If this window appears, choose your preferred interface
