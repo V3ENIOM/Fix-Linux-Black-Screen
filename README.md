@@ -9,22 +9,25 @@ All you have to do is download the tool, run it, and then choose the type of dis
 `If you want to change it, just choose the corresponding option`
 
 ## Steps
- 
 
-```bash 
-git clone https://github.com/V3ENIOM/Fix-Linux-Black-Screen.git
-```
+1- Press `Ctrl`+`Alt`+`f2`or `f3` 
+
+2- Login 
+ 
+3- Run these commands
+ ```bash 
+ git clone https://github.com/V3ENIOM/Fix-Linux-Black-Screen.git
+ ```
     cd Fix-Linux-BlackScreen
-```
-sudo python3 Script.py
-````
+ ```
+ sudo python3 Script.py
+ ````
 
 If this window appears, choose your preferred interface
 
 ![](https://i.ibb.co/v45YsFv/Virtual-Box-Kali-04-03-2024-17-38-18.png)
 
-If the Script doesn't Work correctly reboot
- run these commands 
+If the Script doesn't Work Correctly, run these commands... 
  ```bash
     sudo apt auto-remove
 ```
