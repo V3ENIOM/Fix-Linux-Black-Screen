@@ -6,7 +6,7 @@ the operating system and trying to log in.
 So I designed this simple script to solve this problem by executing some Linux commands automatically.
 All you have to do is download the tool, run it, and then choose the type of display manager that you installed during the system installation.
 
-`If you want to change it, just choose the corresponding option`
+`If you want to change it, just choose another option`
 
 ## Steps
 
